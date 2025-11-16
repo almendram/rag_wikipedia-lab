@@ -1,0 +1,8 @@
+{
+    "query_1": "Explain federated learning challenges in healthcare.",
+    "answer_1": "a systematic review of Federated Learning in the Healthcare Area: From the Perspective of Data Properties and Applications",
+    "query_2": "What is the purpose of federated learning?",
+    "answer_2": "to address the problem of data governance and privacy by training algorithms collaboratively without exchanging the data itself",
+    "query_3": "How does federated learning protect privacy?",
+    "answer_3": "The ability to train machine learning models at scale across multiple medical institutions without moving the data is a critical technology"
+}
